@@ -1,0 +1,74 @@
+> Task :app:signingReport
+Variant: debug
+Config: debug
+Store: M:\08_Development\02_ReactNative\01_WebRTC\webrtc\mobileApp\webrtcMobile\android\app\debug.keystore
+Alias: androiddebugkey
+MD5: 20:F4:61:48:B7:2D:8E:5E:5C:A2:3D:37:A4:F4:14:90
+SHA1: 5E:8F:16:06:2E:A3:CD:2C:4A:0D:54:78:76:BA:A6:F3:8C:AB:F6:25
+SHA-256: FA:C6:17:45:DC:09:03:78:6F:B9:ED:E6:2A:96:2B:39:9F:73:48:F0:BB:6F:89:9B:83:32:66:75:91:03:3B:9C
+Valid until: Wednesday, May 1, 2052
+----------
+Variant: release
+Config: debug
+Store: M:\08_Development\02_ReactNative\01_WebRTC\webrtc\mobileApp\webrtcMobile\android\app\debug.keystore
+Alias: androiddebugkey
+MD5: 20:F4:61:48:B7:2D:8E:5E:5C:A2:3D:37:A4:F4:14:90
+SHA1: 5E:8F:16:06:2E:A3:CD:2C:4A:0D:54:78:76:BA:A6:F3:8C:AB:F6:25
+SHA-256: FA:C6:17:45:DC:09:03:78:6F:B9:ED:E6:2A:96:2B:39:9F:73:48:F0:BB:6F:89:9B:83:32:66:75:91:03:3B:9C
+Valid until: Wednesday, May 1, 2052
+----------
+Variant: debugAndroidTest
+Config: debug
+Store: M:\08_Development\02_ReactNative\01_WebRTC\webrtc\mobileApp\webrtcMobile\android\app\debug.keystore
+Alias: androiddebugkey
+MD5: 20:F4:61:48:B7:2D:8E:5E:5C:A2:3D:37:A4:F4:14:90
+SHA1: 5E:8F:16:06:2E:A3:CD:2C:4A:0D:54:78:76:BA:A6:F3:8C:AB:F6:25
+SHA-256: FA:C6:17:45:DC:09:03:78:6F:B9:ED:E6:2A:96:2B:39:9F:73:48:F0:BB:6F:89:9B:83:32:66:75:91:03:3B:9C
+Valid until: Wednesday, May 1, 2052
+----------
+Variant: debugUnitTest
+Config: debug
+Store: M:\08_Development\02_ReactNative\01_WebRTC\webrtc\mobileApp\webrtcMobile\android\app\debug.keystore
+Alias: androiddebugkey
+MD5: 20:F4:61:48:B7:2D:8E:5E:5C:A2:3D:37:A4:F4:14:90
+SHA1: 5E:8F:16:06:2E:A3:CD:2C:4A:0D:54:78:76:BA:A6:F3:8C:AB:F6:25
+SHA-256: FA:C6:17:45:DC:09:03:78:6F:B9:ED:E6:2A:96:2B:39:9F:73:48:F0:BB:6F:89:9B:83:32:66:75:91:03:3B:9C
+Valid until: Wednesday, May 1, 2052
+----------
+Variant: releaseUnitTest
+Config: debug
+Store: M:\08_Development\02_ReactNative\01_WebRTC\webrtc\mobileApp\webrtcMobile\android\app\debug.keystore
+Alias: androiddebugkey
+MD5: 20:F4:61:48:B7:2D:8E:5E:5C:A2:3D:37:A4:F4:14:90
+SHA1: 5E:8F:16:06:2E:A3:CD:2C:4A:0D:54:78:76:BA:A6:F3:8C:AB:F6:25
+SHA-256: FA:C6:17:45:DC:09:03:78:6F:B9:ED:E6:2A:96:2B:39:9F:73:48:F0:BB:6F:89:9B:83:32:66:75:91:03:3B:9C
+Valid until: Wednesday, May 1, 2052
+----------
+
+> Task :react-native-webrtc:signingReport
+Variant: debugAndroidTest
+Config: debug
+Store: C:\Users\mapem\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: 55:84:14:67:FC:A0:13:21:42:5D:D4:A3:99:90:68:56
+SHA1: 1B:A3:FE:26:BB:40:0F:01:A6:E1:36:7C:82:4A:D0:E4:82:D0:15:57
+SHA-256: 2A:77:21:74:D5:AD:50:22:95:A2:EA:D2:71:8A:A5:F2:A2:93:A2:19:4A:2A:13:EC:5D:D7:EC:9C:B9:93:62:50
+Valid until: Wednesday, February 16, 2050
+----------
+Variant: debugUnitTest
+Config: debug
+Store: C:\Users\mapem\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: 55:84:14:67:FC:A0:13:21:42:5D:D4:A3:99:90:68:56
+SHA1: 1B:A3:FE:26:BB:40:0F:01:A6:E1:36:7C:82:4A:D0:E4:82:D0:15:57
+SHA-256: 2A:77:21:74:D5:AD:50:22:95:A2:EA:D2:71:8A:A5:F2:A2:93:A2:19:4A:2A:13:EC:5D:D7:EC:9C:B9:93:62:50
+Valid until: Wednesday, February 16, 2050
+----------
+Variant: releaseUnitTest
+Config: debug
+Store: C:\Users\mapem\.android\debug.keystore
+Alias: AndroidDebugKey
+MD5: 55:84:14:67:FC:A0:13:21:42:5D:D4:A3:99:90:68:56
+SHA1: 1B:A3:FE:26:BB:40:0F:01:A6:E1:36:7C:82:4A:D0:E4:82:D0:15:57
+SHA-256: 2A:77:21:74:D5:AD:50:22:95:A2:EA:D2:71:8A:A5:F2:A2:93:A2:19:4A:2A:13:EC:5D:D7:EC:9C:B9:93:62:50
+Valid until: Wednesday, February 16, 2050
